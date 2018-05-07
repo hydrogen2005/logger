@@ -1,0 +1,1 @@
+{"timestamp":1525679105,"timestamp_format":"2018-05-07 15:45:05","millisecond":1525679105429,"millisecond_format":"2018-05-07 15:45:05.429","level":3,"level_string":"Error","body":"this is a error format log!","file":"main.go","line":41,"function":"main.main"}
